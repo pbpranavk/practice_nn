@@ -1,1 +1,1 @@
-Repo for learning and cracking tf certification
+Repo for practicing neural nets
