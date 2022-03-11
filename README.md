@@ -9,9 +9,10 @@ Prerequisites (all of the prereqs are forked from [@mrdbouke's](https://github.c
 - Matplotlib Foundations
 - Tensorflow Fundamentals
 
-All the below notebooks are forked and the sources are listed in the notebooks. I'm not a fan of writting a lot of documentation, I just like looking at code, so I haven't written much of it in this repo. However, if you want to read more about what the code does please look at the linked articles/notebooks.
+Neural Networks:
+I went through a lot of resources to train one neural network for each of the below problems. Resources are present in each notebook which have the writeup and documentation for the code. These notebooks are just trimmed down versions of them so that I can just look at the code.
 
-- All types Regression using Scikit as Neural nets dont perform very well with less data
+- Many types Regression using Scikit (As Neural nets dont perform very well with less data used these instead)
 
 - Classification on Heart Disease data using Keras
 
