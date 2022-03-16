@@ -29,3 +29,5 @@ I went through a lot of resources to train one neural network for each of the be
 The motivation behind this repo was to have everything from foundations to transfer learning in one place so that I could refer it in one go. Hope you find it useful.
 
 Bonus: If you wanted to go over opencv foundations the repo for that is here: https://github.com/pbpranavk/learn_opencv
+
+Repo for learning webscraping for static and dynamic webpages: https://github.com/pbpranavk/learn_web_scraping
